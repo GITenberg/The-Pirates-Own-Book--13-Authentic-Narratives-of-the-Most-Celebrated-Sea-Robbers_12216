@@ -1,0 +1,23 @@
+_repo: The-Pirates-Own-Book--13-Authentic-Narratives-of-the-Most-Celebrated-Sea-Robbers_12216
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellms, Charles
+    gutenberg_agent_id: '4261'
+    url: http://www.gutenberg.org/2009/agents/4261
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Pirates'
+- GITenberg
+title: "The Pirates Own Book\r\nAuthentic Narratives of the Most Celebrated Sea Robbers"
+url: http://www.gutenberg.org/ebooks/12216
